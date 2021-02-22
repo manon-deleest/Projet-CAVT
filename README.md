@@ -7,7 +7,7 @@ Lors de la deuxième année de DUT Informatique, nous réalisons un projet Tutor
 Ce travail a été réalisé par : 
   -   [Manon DELEEST](https://github.com/manon-deleest/manon-deleest) 
   -   [Maureen CAGNON](https://github.com/manon-deleest/manon-deleest) 
-  -   [Maxime CONSTANS](https://github.com/manon-deleest/manon-deleest) 
+  -   [Maxime CONSTANS](https://github.com/MaximeConstans) 
   -   [Dorian CLERGERIE](https://github.com/manon-deleest/manon-deleest) 
   -   [Quentin GUILLIN](https://github.com/manon-deleest/manon-deleest) 
 
